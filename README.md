@@ -1,2 +1,2 @@
 # Data-Visulization-
-Data visualization using seaborn, matplotlib 
+Data visualization using pandas built in viz  
